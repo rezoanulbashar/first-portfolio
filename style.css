@@ -54,3 +54,39 @@ section{
 .half-width img{
     width: 100%;
 }
+.about-me {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.developer{
+    background-color: antiquewhite;
+    padding: 30px;
+    height: 450px;
+    box-shadow: 10px 10px 30px #999999;
+    border-radius: 5px;
+}
+#full-stack-developer{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-plan{
+    border-left: 8px solid;
+    border-image: linear-gradient(180deg, blue, yellow);
+    border-image-slice: 1;
+
+}
+.experiance h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+    text-align: center;
+}
+.footer p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
