@@ -1,0 +1,48 @@
+*{
+    
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+.half-width h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+}
+.half-width h2{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 50px;
+    color: coral;
+}
+.half-width p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.half-width  a{
+    background-color: coral;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 15px 50px;
+    text-decoration: none;
+}
+.half-width a:hover{
+    background-color: cornflowerblue;
+    transition: all 0.5s ease;
+}
+
+.title-highligt{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
